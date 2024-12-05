@@ -1,0 +1,34 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  main {
+    display: block;
+  }
+  
+  h1, h2, p, ul, li, table, th, td {
+    margin: 0;
+    padding: 0;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  img {
+    border-style: none;
+  }
+  
+  button, input, select, textarea {
+    font: inherit;
+  }
+  
+  *:focus {
+    outline: none;
+  }
+  
